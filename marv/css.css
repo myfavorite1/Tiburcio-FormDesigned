@@ -1,0 +1,15 @@
+div{margin: 60px;}
+
+.pname, .name{float:left;}
+.name{
+	margin:20px 10px;
+	border-top:1px solid #000;
+	width: 200px;
+	text-align: center;
+}
+
+.date> .line,.sign> .line {
+	display: inline-block;
+	border-bottom: 1px solid #000;
+	width: 100px;
+}
